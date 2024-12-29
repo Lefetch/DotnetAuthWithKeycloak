@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "53dybEdURtA=",
+  "success": true,
+  "projectFilePath": "/home/lefetch/workspace/dotnet-projects/DotnetAuthWithKeycloak/DotnetAuthWithKeycloak.Api/DotnetAuthWithKeycloak.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/lefetch/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/home/lefetch/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
